@@ -6,8 +6,8 @@ Feel free to take the MXM edge connector footprint from it.
 
 ## Here's some pictures
 <!---![Img](pictureoftheboard.png)--->
-<img src='pictureoftheboard.png' width=58%/>
-<img src='pictureofthepcbeditor.png' width=35%/>
+<img src='pictureoftheboard.png' width=70%/>
+<img src='pictureofthepcbeditor.png' width=50%/>
 
 I didn't do impedance matching or anything yet, the diffpairs are just there to look pretty ✨
 
