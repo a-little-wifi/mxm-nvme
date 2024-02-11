@@ -5,5 +5,8 @@ I made an MXM edge connector footprint and wanted to make a board that uses it s
 Feel free to take the MXM edge connector footprint from it.
 
 ## Here's a picture
-![Img](pictureoftheboard.png)
+<!---![Img](pictureoftheboard.png)--->
+<img src='pictureoftheboard.png' width=70%/>
+
 I didn't do impedance matching or anything yet, the diffpairs are just there to look pretty ✨
+
